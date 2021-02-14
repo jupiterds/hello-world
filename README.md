@@ -1,3 +1,3 @@
 # hello-world
 KR first repo
-This is Koushik creating the first repository in GitHub
+This is KR creating the first repository in GitHub
